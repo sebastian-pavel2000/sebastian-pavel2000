@@ -13,7 +13,7 @@ I have experience in application development, technical support, database system
 - **Crossing Borders** – Indie game developed with Unity, available on Steam  
 
 ## 🌍 Languages
-Romanian (Native) · German (C1) · English (C1)
+[Romanian](https://img.shields.io/badge/Romanian-Native-blue) Romanian (Native) · German (C1) · English (C1)
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/faa9813c-51e3-408a-ba7b-f36e3b7ca457/thumbnail" >
