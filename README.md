@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastian
 
-<!--
-**sebastian-pavel2000/sebastian-pavel2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** and **Certified Web Designer** based in Karlsruhe, Germany.  
+I have experience in application development, technical support, database systems, and game development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, C#, Python, SQL, JavaScript, PHP  
+- **Web:** HTML5, CSS, SASS, Bootstrap 5  
+- **Databases:** Oracle SQL, MS SQL  
+- **Other:** Linux, UI/UX Design, Responsive Web Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Projects
+- **Crossing Borders** – Indie game developed with Unity, available on Steam  
+- Music production for video games  
+
+## 🌍 Languages
+Romanian (Native) · German (C1) · English (C1)
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/faa9813c-51e3-408a-ba7b-f36e3b7ca457/thumbnail" >
+</p>
