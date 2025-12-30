@@ -11,7 +11,6 @@ I have experience in application development, technical support, database system
 
 ## 🎮 Projects
 - **Crossing Borders** – Indie game developed with Unity, available on Steam  
-- Music production for video games  
 
 ## 🌍 Languages
 Romanian (Native) · German (C1) · English (C1)
