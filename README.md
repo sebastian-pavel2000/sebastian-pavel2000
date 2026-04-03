@@ -1,18 +1,24 @@
 # 👋 Hi, I'm Sebastian
 
 I'm a **Software Developer** and **Certified Web Designer** based in Karlsruhe, Germany.  
-I have experience in application development, technical support, database systems, and game development.
+I build developer tools, games, and AI-powered applications.
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C#, Python, SQL, JavaScript, PHP  
-- **Web:** HTML5, CSS, SASS, Bootstrap 5  
-- **Databases:** Oracle SQL, MS SQL  
-- **Other:** Linux, UI/UX Design, Responsive Web Design  
 
-## 🎮 Projects
-- **Crossing Borders** – Indie game developed with Unity, available on Steam  
+- **Languages:** Python, GDScript, C#, Java, JavaScript, SQL, PHP
+- **AI / LLM:** Claude API, Ollama, LLM Engineering, Agentic Workflows
+- **Game Dev:** Godot 4, Unity, FMOD
+- **Web:** HTML5, CSS, SASS, Bootstrap 5
+- **Databases:** Oracle SQL, MS SQL
+- **Other:** Linux, UI/UX Design
+
+## 🔧 Projects
+
+- **[Godot MD Previewer](https://github.com/sebastian-pavel2000/godot-md-previewer)** – Markdown previewer addon for Godot 4 with multi-tab support and auto-reload
+- **Crossing Borders** – Psychological horror narrative game, available on Steam
 
 ## 🌍 Languages
+
 Romanian (Native) · German (C1) · English (C1)
 
 <p align="center">
