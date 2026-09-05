@@ -36,6 +36,7 @@ I build developer tools, games, and AI-powered applications.
 
 ## 🔧 Projects
 
+- **[PaginaPDF](https://paginapdf.com/)** – A cross-platform desktop PDF editor built in Python
 - **[Godot MD Previewer](https://github.com/sebastian-pavel2000/godot-md-previewer)** – Markdown previewer addon for Godot 4 with multi-tab support and auto-reload
 - **Crossing Borders** – Psychological horror narrative game, available on Steam
 
